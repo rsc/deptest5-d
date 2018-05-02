@@ -1,3 +1,3 @@
 package d
 
-var X = 1
+const X = 1
